@@ -85,11 +85,11 @@
         </option>
         <option>
           <name>OCDynDriverList</name>
-          <state>CMSISDAP_ID</state>
+          <state>JLINK_ID</state>
         </option>
         <option>
           <name>OCLastSavedByProductVersion</name>
-          <state>7.30.4.8186</state>
+          <state>7.40.1.8463</state>
         </option>
         <option>
           <name>OCDownloadAttachToProgram</name>
@@ -520,7 +520,7 @@
       <name>IJET_ID</name>
       <archiveVersion>2</archiveVersion>
       <data>
-        <version>5</version>
+        <version>6</version>
         <wantNonLocal>1</wantNonLocal>
         <debug>1</debug>
         <option>
@@ -732,6 +732,10 @@
           <version>0</version>
           <state>2</state>
         </option>
+        <option>
+          <name>FlashBoardPathSlave</name>
+          <state>0</state>
+        </option>
       </data>
     </settings>
     <settings>
@@ -910,7 +914,7 @@
         </option>
         <option>
           <name>CCCpuClockEdit</name>
-          <state>72.0</state>
+          <state></state>
         </option>
         <option>
           <name>CCSwoClockAuto</name>
@@ -1883,7 +1887,7 @@
       <name>IJET_ID</name>
       <archiveVersion>2</archiveVersion>
       <data>
-        <version>5</version>
+        <version>6</version>
         <wantNonLocal>1</wantNonLocal>
         <debug>0</debug>
         <option>
@@ -2094,6 +2098,10 @@
           <name>IjetTraceSizeList</name>
           <version>0</version>
           <state>2</state>
+        </option>
+        <option>
+          <name>FlashBoardPathSlave</name>
+          <state>0</state>
         </option>
       </data>
     </settings>
